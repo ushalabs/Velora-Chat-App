@@ -1,6 +1,42 @@
-# Welcome to your Expo app 👋
+# Velora — Real-Time Social Chat App 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Velora is a modern, full-featured real-time chat application built with a focus on seamless communication and interactive social experiences. It combines messaging, media sharing, and social features like posts and stories into a single intuitive platform.
+
+✨ Features
+💬 Real-Time Messaging
+Instant one-to-one and group conversations powered by Firebase.
+📸 Media Sharing
+Send images, videos, and voice messages in real-time.
+👥 Friends & Groups System
+Add friends by username and create group chats.
+❤️ Message Reactions
+Interact with messages using likes/reactions.
+🧑‍💻 User Profiles
+Editable profiles with personalized user data.
+📷 Posts (Instagram-style)
+Share images on your profile feed.
+⏳ Stories Feature
+Upload temporary stories visible to your network.
+🔔 Push Notifications
+Real-time alerts for messages and interactions.
+
+🛠️ Tech Stack
+Frontend: React Native (Expo)
+Backend: Firebase
+Authentication
+Firestore Database
+Media Storage: Cloudinary
+Notifications: Firebase Cloud Messaging (FCM)
+
+🚀 Future Improvements
+📞 Voice & Video Calling
+🔒 End-to-End Encryption
+🌐 Web version
+⚡ Performance optimization
+
+👨‍💻 Developer
+Usha Labs
+Building modern, real-time mobile experiences.
 
 ## Get started
 
@@ -20,31 +56,10 @@ In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+🔐 Note
+Firebase configuration keys are required to run this project.
+Set up your own Firebase project and replace the config in the project files.
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
