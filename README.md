@@ -58,9 +58,9 @@ In the output, you'll find options to open the app in a
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🔐 Note
 
-🔐 Note
-Firebase configuration keys are required to run this project.
+Firebase configuration keys are required to run this project.  
 Set up your own Firebase project and replace the config in the project files.
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
