@@ -25,29 +25,6 @@ Velora is a modern, full-featured real-time chat application built with a focus 
 - Media Storage: Cloudinary  
 - Notifications: Firebase Cloud Messaging (FCM)  
 
----
-
-## 📱 Platform
-
-- Android (Expo-based build)
-
----
-
-## 🎯 Purpose
-
-This project was built as a portfolio-level application to demonstrate the development of a complete, production-ready mobile app using modern tools and AI-assisted workflows.
-
----
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/your-username/velora.git
-cd velora
-npm install
-npx expo start
-```
-
 
 ---
 
@@ -60,9 +37,7 @@ npx expo start
 
 ---
 
-## 👨‍💻 Developer
-
-Usha Labs
+## 👨‍💻 Developer: Usha Labs
 
 ## Get started
 
