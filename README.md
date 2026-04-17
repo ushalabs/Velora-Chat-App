@@ -1,42 +1,68 @@
-# Velora — Real-Time Social Chat App 👋
+# 🚀 Velora — Real-Time Social Chat App
 
 Velora is a modern, full-featured real-time chat application built with a focus on seamless communication and interactive social experiences. It combines messaging, media sharing, and social features like posts and stories into a single intuitive platform.
 
-✨ Features
-💬 Real-Time Messaging
-Instant one-to-one and group conversations powered by Firebase.
-📸 Media Sharing
-Send images, videos, and voice messages in real-time.
-👥 Friends & Groups System
-Add friends by username and create group chats.
-❤️ Message Reactions
-Interact with messages using likes/reactions.
-🧑‍💻 User Profiles
-Editable profiles with personalized user data.
-📷 Posts (Instagram-style)
-Share images on your profile feed.
-⏳ Stories Feature
-Upload temporary stories visible to your network.
-🔔 Push Notifications
-Real-time alerts for messages and interactions.
+---
 
-🛠️ Tech Stack
-Frontend: React Native (Expo)
-Backend: Firebase
-Authentication
-Firestore Database
-Media Storage: Cloudinary
-Notifications: Firebase Cloud Messaging (FCM)
+## ✨ Features
 
-🚀 Future Improvements
-📞 Voice & Video Calling
-🔒 End-to-End Encryption
-🌐 Web version
-⚡ Performance optimization
+- 💬 Real-Time Messaging  
+- 📸 Media Sharing  
+- 👥 Friends & Groups System  
+- ❤️ Message Reactions  
+- 🧑‍💻 User Profiles  
+- 📷 Posts (Instagram-style)  
+- ⏳ Stories Feature  
+- 🔔 Push Notifications  
 
-👨‍💻 Developer
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: React Native (Expo)  
+- Backend: Firebase  
+- Database: Firestore  
+- Media Storage: Cloudinary  
+- Notifications: Firebase Cloud Messaging (FCM)  
+
+---
+
+## 📱 Platform
+
+- Android (Expo-based build)
+
+---
+
+## 🎯 Purpose
+
+This project was built as a portfolio-level application to demonstrate the development of a complete, production-ready mobile app using modern tools and AI-assisted workflows.
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/velora.git
+cd velora
+npm install
+npx expo start
+```
+
+
+---
+
+## 🚀 Future Improvements
+
+- 📞 Voice & Video Calling  
+- 🔒 End-to-End Encryption  
+- 🌐 Web version  
+- ⚡ Performance optimization  
+
+---
+
+## 👨‍💻 Developer
+
 Usha Labs
-Building modern, real-time mobile experiences.
 
 ## Get started
 
