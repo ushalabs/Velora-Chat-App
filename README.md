@@ -1,5 +1,26 @@
 # 🚀 Velora — Real-Time Social Chat App
 
+<p align="center">
+  <img src="assets/readme/velora-banner.svg" alt="Velora Banner" width="100%" />
+</p>
+
+## 📱 Available on Google Play
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.velora.chat&hl=en">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="80" />
+  </a>
+</p>
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/readme/chat.png" alt="Velora Chat" width="180" />
+  <img src="assets/readme/stories.png" alt="Velora Stories" width="180" />
+  <img src="assets/readme/posts.png" alt="Velora Posts" width="180" />
+  <img src="assets/readme/profile.png" alt="Velora Profile" width="180" />
+</p>
+
 Velora is a modern, full-featured real-time chat application built with a focus on seamless communication and interactive social experiences. It combines messaging, media sharing, and social features like posts and stories into a single intuitive platform.
 
 ---
@@ -65,4 +86,3 @@ Set up your own Firebase project and replace the config in the project files.
 You can start developing by editing the files inside the **app** directory.
 
 ## Enjoy :3
-
