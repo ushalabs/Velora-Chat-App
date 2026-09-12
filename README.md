@@ -16,7 +16,6 @@
 
 <p align="center">
   <img src="assets/readme/posts-comments.png" alt="Velora Comments" width="180" />
-  <img src="assets/readme/theme-modes.png" alt="Velora Chat" width="180" />
   <img src="assets/readme/stories.png" alt="Velora Stories" width="180" />
   <img src="assets/readme/add-friend.png" alt="Velora Posts" width="180" />
   <img src="assets/readme/profile.png" alt="Velora Profile" width="180" />
